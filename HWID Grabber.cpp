@@ -15,7 +15,7 @@ int main()
         0,
         &serialNumber,
         NULL,
-        0,
+        NULL,
         NULL,
         0))
     {
